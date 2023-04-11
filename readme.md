@@ -4,5 +4,5 @@ The Jupyter Notebook demonstrate the process of transffering blue phosphorene (B
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JannarZ/gnn_bp_gb_tersoff/blob/main/gnn_model_for_predicting_grain_boundaries_in_blue_phosphorene_tersoff.ipynb)
 
 Publication: 
-*Zhang J, Koneru A, Sankaranarayanan S, Lilley C. Graph Neural Network Guided Evolutionary Search of Grain Boundaries in 2D Materials. ChemRxiv. Cambridge: Cambridge Open Engage; 2023. (10.26434/chemrxiv-2023-2h5r8)*  
+*<div class="csl-entry">Zhang, J., Koneru, A., Sankaranarayanan, S. K. R. S., &#38; Lilley, C. M. (2023). Graph Neural Network Guided Evolutionary Search of Grain Boundaries in 2D Materials. <i>ACS Applied Materials &#38; Interfaces</i>. https://doi.org/10.1021/ACSAMI.3C01161</div>*  
 
